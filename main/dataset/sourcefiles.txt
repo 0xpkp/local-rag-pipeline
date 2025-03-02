@@ -1,0 +1,1 @@
+the source texts are extracted from 'deep learning for computer vision and object detection tasks.pdf and sample.txt
